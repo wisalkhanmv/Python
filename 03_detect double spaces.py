@@ -1,0 +1,5 @@
+story=input("write a single line sentence: ")
+double_spaces = story.find("  ")
+print(double_spaces)
+story = story.replace("  ", " ")
+print(story)

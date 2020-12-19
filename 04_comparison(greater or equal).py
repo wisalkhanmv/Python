@@ -1,0 +1,6 @@
+a=input("Enter a number:")
+a=int(a)
+b=input("Enter the number you want to compare")
+b=int(b)
+print(a>b)
+print(b>a)
